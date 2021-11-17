@@ -1,0 +1,1 @@
+create a c program which will transfer text into ascii code and ascii code into text file.
